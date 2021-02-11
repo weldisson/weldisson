@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **weldisson.araujo@gmail.com**
 
-- ⚡ Fun fact **I ❤ Music production**
+- ⚡ Fun fact **I ❤  Music production**
 
 ### Blogs posts
 - [As principais features do ES11](https://medium.com/concretebr/principais-features-do-es11-2748c0477191)
