@@ -30,7 +30,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/weldisson" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="weldisson" height="40" width="40" /></a> <a href="https://instagram.com/weldissonaraujo" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="weldissonaraujo" height="40" width="40" /></a> <a href="https://medium.com/@weldisson" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png" alt="@weldisson" height="40" width="40" /></a></p>
+<a href="https://twitter.com/weldisson" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="weldisson" height="40" width="40" /></a> <a href="https://instagram.com/weldissonaraujo" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="weldissonaraujo" height="40" width="40" /></a> <a href="https://medium.com/@weldisson" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/fa314a/medium-monogram.png" alt="@weldisson" height="40" width="40" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weldisson&show_icons=true&locale=en&layout=compact" alt="weldisson"/></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weldisson&show_icons=true&locale=en" alt="weldisson" /></p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weldisson&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldisson&layout=compact" />
+</div>
