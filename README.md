@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **weldisson.araujo@gmail.com**
 
-### Blogs posts
+### Posts
 - [As principais features do ES11](https://medium.com/concretebr/principais-features-do-es11-2748c0477191)
 
 <h3 align="left">Connect with me:</h3>
