@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with **React.js, HTML, CSS etc**
 
-- 👨‍💻 All of my projects are available at [https://www.gitshowcase.com/weldisson](https://www.gitshowcase.com/weldisson)
+- 👨‍💻 All of my projects are available at [Gitshowcase](https://www.gitshowcase.com/weldisson)
 
-- 📝 I regulary write articles on [https://medium.com/@weldissonaraujo](https://medium.com/@weldissonaraujo)
+- 📝 I regularly write articles on [medium](https://medium.com/@weldissonaraujo)
 
 - 💬 Ask me about **JavaScript, Typescript, NodeJs**
 
