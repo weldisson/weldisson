@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **React.js, HTML, CSS etc**
 
-- 👨‍💻 All of my projects are available at [Gitshowcase](https://www.gitshowcase.com/weldisson)
-
 - 📝 I regularly write articles on [medium](https://medium.com/@weldissonaraujo)
 
 - 💬 Ask me about **JavaScript, Typescript, NodeJs**
