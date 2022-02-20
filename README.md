@@ -2,10 +2,6 @@
 <h1 align="center">Hello 👋🏼! I'm Weldisson Araujo</h1>
 <h3 align="center">Backend Developer</h3>
 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weldisson" alt="weldisson" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/weldisson" target="blank"><img src="https://img.shields.io/twitter/follow/weldisson?logo=twitter&style=for-the-badge" alt="weldisson" /></a> </p>
 
 - 🔭 I’m currently working at [Concrete Solutions](https://github.com/concretesolutions)
