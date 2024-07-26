@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋🏼! I'm Weldisson Araujo</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center"> <a href="https://x.com/weldisson" target="blank"><img src="https://img.shields.io/x/follow/weldisson?logo=twitter&style=for-the-badge" alt="weldisson" /></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/weldissonaraujo" target="blank"><img src="[https://img.shields.io/x/follow/weldisson?logo=twitter&style=for-the-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="weldisson" /></a> </p>
 
 - 🔭 I’m currently working at [Accenture Brasil](https://accenture.com/)
 
