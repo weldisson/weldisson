@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋🏼! I'm Weldisson Araujo</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/weldisson" target="blank"><img src="https://img.shields.io/twitter/follow/weldisson?logo=twitter&style=for-the-badge" alt="weldisson" /></a> </p>
 
