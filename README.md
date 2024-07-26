@@ -4,11 +4,9 @@
 
 <p align="center"> <a href="https://twitter.com/weldisson" target="blank"><img src="https://img.shields.io/twitter/follow/weldisson?logo=twitter&style=for-the-badge" alt="weldisson" /></a> </p>
 
-- 🔭 I’m currently working at [Concrete Solutions](https://github.com/concretesolutions)
+- 🔭 I’m currently working at [Accenture Brasil](https://accenture.com/)
 
-- 🌱 I’m currently learning **AWS Cloud & Frontend**
-
-- 🤝 I’m looking for help with **React.js, HTML, CSS etc**
+- 🌱 I’m currently learning **GENAI**
 
 - 📝 I regularly write articles on [medium](https://medium.com/@weldissonaraujo)
 
