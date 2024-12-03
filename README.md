@@ -1,21 +1,23 @@
-# 👋 Olá! Eu sou Weldisson da Silva Araujo
+###👋 Hi! I'm Weldisson Araujo
 
-Sou um Engenheiro de Software com ampla experiência em arquitetura e desenvolvimento de sistemas distribuídos, modernização de aplicações e migração para cloud. Minha paixão está em criar soluções escaláveis e robustas que impactam positivamente os negócios e os usuários.
+I'm a Software Engineer with extensive experience in architecture and development of distributed systems, application modernization, and cloud migration. I'm passionate about creating scalable and robust solutions that positively impact businesses and users.
 
-# 🌟 Sobre Mim
+### 🌟 About Me
 
-Atualmente: Software Engineer no Itaú Unibanco, trabalhando em projetos de modernização e cloud para sistemas críticos.
+Currently: Software Engineer at Itaú Unibanco, working on modernization and cloud projects for critical systems.
 
-Experiência Prévia: Senior Software Engineer na Accenture, onde colaborei com grandes clientes como Unilever, Coca-Cola e Natura em sistemas distribuídos e projetos estratégicos.
+Previous Experience: Senior Software Engineer at Accenture, where I collaborated with major clients such as Unilever, Coca-Cola, and Natura on distributed systems and strategic projects.
 
-Habilidades Técnicas: Especializado em DDD, microserviços, Cloud Computing (AWS e Azure) e práticas ágeis (Scrum, Kanban).
+Technical Skills: Specialized in DDD, microservices, Cloud Computing (AWS and Azure), and agile practices (Scrum, Kanban).
 
-Comunicação: Forte habilidade em transmitir conceitos técnicos complexos para equipes e stakeholders.
+Communication: Strong ability to convey complex technical concepts to teams and stakeholders.
 
-# 🏆 Certificações
+### 🏆 Certifications
 
 AWS Certified Developer (11/2023)
 
 AWS Certified Cloud Practitioner (03/2021)
 
 Professional Scrum Master (09/2018)
+
+
