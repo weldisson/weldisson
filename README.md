@@ -1,4 +1,4 @@
-###👋 Hi! I'm Weldisson Araujo
+### 👋 Hi! I'm Weldisson Araujo
 
 I'm a Software Engineer with extensive experience in architecture and development of distributed systems, application modernization, and cloud migration. I'm passionate about creating scalable and robust solutions that positively impact businesses and users.
 
