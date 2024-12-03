@@ -1,8 +1,8 @@
-👋 Olá! Eu sou Weldisson da Silva Araujo
+# 👋 Olá! Eu sou Weldisson da Silva Araujo
 
 Sou um Engenheiro de Software com ampla experiência em arquitetura e desenvolvimento de sistemas distribuídos, modernização de aplicações e migração para cloud. Minha paixão está em criar soluções escaláveis e robustas que impactam positivamente os negócios e os usuários.
 
-🌟 Sobre Mim
+# 🌟 Sobre Mim
 
 Atualmente: Software Engineer no Itaú Unibanco, trabalhando em projetos de modernização e cloud para sistemas críticos.
 
@@ -12,7 +12,7 @@ Habilidades Técnicas: Especializado em DDD, microserviços, Cloud Computing (AW
 
 Comunicação: Forte habilidade em transmitir conceitos técnicos complexos para equipes e stakeholders.
 
-🏆 Certificações
+# 🏆 Certificações
 
 AWS Certified Developer (11/2023)
 
