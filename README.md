@@ -1,29 +1,21 @@
+👋 Olá! Eu sou Weldisson da Silva Araujo
 
-<h1 align="center">Hello 👋🏼! I'm Weldisson Araujo</h1>
-<h3 align="center">Software Engineer</h3>
+Sou um Engenheiro de Software com ampla experiência em arquitetura e desenvolvimento de sistemas distribuídos, modernização de aplicações e migração para cloud. Minha paixão está em criar soluções escaláveis e robustas que impactam positivamente os negócios e os usuários.
 
-<p align="center"> <a href="https://linkedin.com/in/weldissonaraujo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="weldisson" /></a> </p>
+🌟 Sobre Mim
 
-- 🔭 I’m currently working at [Accenture Brasil](https://accenture.com/)
+Atualmente: Software Engineer no Itaú Unibanco, trabalhando em projetos de modernização e cloud para sistemas críticos.
 
-- 🌱 I’m currently learning **GENAI**
+Experiência Prévia: Senior Software Engineer na Accenture, onde colaborei com grandes clientes como Unilever, Coca-Cola e Natura em sistemas distribuídos e projetos estratégicos.
 
-- 📝 I regularly write articles on [medium](https://medium.com/@weldissonaraujo)
+Habilidades Técnicas: Especializado em DDD, microserviços, Cloud Computing (AWS e Azure) e práticas ágeis (Scrum, Kanban).
 
-- 💬 Ask me about **JavaScript, Typescript, NodeJs**
+Comunicação: Forte habilidade em transmitir conceitos técnicos complexos para equipes e stakeholders.
 
-- 📫 How to reach me **weldisson.araujo@gmail.com**
+🏆 Certificações
 
-### Posts
-- [3 práticas que me ajudam a escrever um código melhor](https://bit.ly/3vc1YS4)
-- [As principais features do ES11](https://bit.ly/3j5N7nq)
+AWS Certified Developer (11/2023)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+AWS Certified Cloud Practitioner (03/2021)
 
-<a href="https://twitter.com/weldisson" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="weldisson" height="40" width="40" /></a> <a href="https://instagram.com/weldissonaraujo" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="weldissonaraujo" height="40" width="40" /></a> <a href="https://medium.com/@weldisson" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/fa314a/medium-monogram.png" alt="@weldisson" height="40" width="40" /></a></p>
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weldisson&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldisson&layout=compact" />
-</div>
+Professional Scrum Master (09/2018)
