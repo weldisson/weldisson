@@ -8,7 +8,7 @@ Currently: Software Engineer at Itaú Unibanco, working on modernization and clo
 
 Previous Experience: Senior Software Engineer at Accenture, where I collaborated with major clients such as Unilever, Coca-Cola, and Natura on distributed systems and strategic projects.
 
-Technical Skills: Specialized in DDD, microservices, Cloud Computing (AWS and Azure), and agile practices (Scrum, Kanban).
+Technical Skills: Python, JavaScript, C#, Go, Unit tests, TDD, DDD, BDD, microservices, Cloud Computing (AWS and Azure), and agile practices (Scrum, Kanban).
 
 Communication: Strong ability to convey complex technical concepts to teams and stakeholders.
 
