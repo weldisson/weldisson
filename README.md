@@ -1,23 +1,29 @@
 ### 👋 Hi! I'm Weldisson Araujo
-
-I'm a Software Engineer with extensive experience in architecture and development of distributed systems, application modernization, and cloud migration. I'm passionate about creating scalable and robust solutions that positively impact businesses and users.
+I'm a Software Engineer with solid experience in designing and building distributed systems, application modernization, and cloud migration. I’m passionate about developing scalable, robust, and efficient solutions that make a real difference in business outcomes and user experience.
 
 ### 🌟 About Me
+Current Role: Senior Software Engineer at AB InBev, working on the Developer Experience team. I focus on improving engineering workflows, internal platforms, and productivity tools to enhance the developer journey at scale.
 
-Currently: Software Engineer at Itaú Unibanco, working on modernization and cloud projects for critical systems.
+#### Previous Roles:
 
-Previous Experience: Senior Software Engineer at Accenture, where I collaborated with major clients such as Unilever, Coca-Cola, and Natura on distributed systems and strategic projects.
+Software Engineer at Itaú Unibanco, contributing to cloud and modernization initiatives for mission-critical systems.
 
-Technical Skills: Python, JavaScript, C#, Go, Unit tests, TDD, DDD, BDD, microservices, Cloud Computing (AWS and Azure), and agile practices (Scrum, Kanban).
+Senior Software Engineer at Accenture, where I collaborated with global clients such as Unilever, Coca-Cola, and Natura, delivering strategic projects and distributed systems.
 
-Communication: Strong ability to convey complex technical concepts to teams and stakeholders.
+#### Technical Stack:
+Python, JavaScript, C#, Go
+TDD, DDD, BDD, Unit Testing
+Microservices Architecture
+Cloud Platforms: AWS & Azure
+Agile methodologies: Scrum, Kanban
+Dev Experience, Platform Engineering
+
+#### Soft Skills:
+Clear communicator, able to translate complex technical concepts for both technical and non-technical audiences.
 
 ### 🏆 Certifications
+AWS Certified Developer – 11/2023
 
-AWS Certified Developer (11/2023)
+AWS Certified Cloud Practitioner – 03/2021
 
-AWS Certified Cloud Practitioner (03/2021)
-
-Professional Scrum Master (09/2018)
-
-
+Professional Scrum Master – 09/2018
